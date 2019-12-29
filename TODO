@@ -1,0 +1,15 @@
+[x] Get the language prediction based on bigger model.
+[x] launch wrapper 
+[x] results save from step 1
+[ ] make edge cases handler for en/russian text - do paragprahs lang classifications
+[ ] step3 unknown class to other
+
+[ ] RALETIVE PATH
+[ ] retrain step 2 with HEADER + H1 + H2 + FULL_TEXT
+[ ] get path fo folder
+[ ] make all this shitty passing a method?
+[ ] RETRAIN AND MAKE LONGER VECTORS AND 
+
+[] clean fasttext of not used files and make new structure for makefile
+[] not all files processed
+[] relative paths
