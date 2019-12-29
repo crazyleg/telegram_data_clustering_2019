@@ -1,7 +1,14 @@
 My entry to Telegram Data Clustering content.
 https://entry1144-dcround1.usercontent.dev/categories/en/
 
+What's useful here?
+
+You can sneak peak a GoLang and C wrapper for fasttext here. It is exteneded version of something I found on the internet with extra wrapping function of vector extraction routine.
+
+
 Basically, my first attempt to write something of use in GoLang. Here's some things I implemented and general approach.
+
+
 
  - FastText integration. I've used FastText C++ library for model construction and inference, so I've CC'ed C wrapper for FastText and extended it to my needs, so I could call it from GoLang. It works smoothly. 
  - For language detection I've used existing fasttext model.
