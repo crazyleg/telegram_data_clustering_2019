@@ -1,0 +1,4 @@
+models/allcats_model_big.bin filter=lfs diff=lfs merge=lfs -text
+models/isnews_model.ftz filter=lfs diff=lfs merge=lfs -text
+models/isnews_ru_model.ftz filter=lfs diff=lfs merge=lfs -text
+models/lid.176.ftz filter=lfs diff=lfs merge=lfs -text
